@@ -9,7 +9,8 @@ tmp/
 *.bak
 *.swp
 *~.nib
-local.properties
+*.properties
+*.xml
 .settings/
 .loadpath
 .recommenders
